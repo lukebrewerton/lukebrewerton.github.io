@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Luke Brewerton</title>
+    <link>http://lukebrewerton.com/tags/</link>
+    <description>Recent content in Tags on Luke Brewerton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 May 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="http://lukebrewerton.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atlassian Developer Ecosystem</title>
+      <link>http://lukebrewerton.com/tags/atlassian-developer-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/atlassian-developer-ecosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atlassian Ecosystem</title>
+      <link>http://lukebrewerton.com/tags/atlassian-ecosystem/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/atlassian-ecosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bamboo</title>
+      <link>http://lukebrewerton.com/tags/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash/Shell</title>
+      <link>http://lukebrewerton.com/tags/bash/shell/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/bash/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitbucket</title>
+      <link>http://lukebrewerton.com/tags/bitbucket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/bitbucket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bosh</title>
+      <link>http://lukebrewerton.com/tags/bosh/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/bosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confluence</title>
+      <link>http://lukebrewerton.com/tags/confluence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/confluence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://lukebrewerton.com/tags/devops/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://lukebrewerton.com/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://lukebrewerton.com/tags/java/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://lukebrewerton.com/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jira</title>
+      <link>http://lukebrewerton.com/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/jira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>http://lukebrewerton.com/tags/json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>http://lukebrewerton.com/tags/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monit</title>
+      <link>http://lukebrewerton.com/tags/monit/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/monit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>http://lukebrewerton.com/tags/node.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>http://lukebrewerton.com/tags/php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://lukebrewerton.com/tags/python/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest Apis</title>
+      <link>http://lukebrewerton.com/tags/rest-apis/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>http://lukebrewerton.com/tags/spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xml/Xslt</title>
+      <link>http://lukebrewerton.com/tags/xml/xslt/</link>
+      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://lukebrewerton.com/tags/xml/xslt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
