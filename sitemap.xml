@@ -19,16 +19,6 @@
   </url>
   
   <url>
-    <loc>https://lukebrewerton.com/projects/contributions/shields-docker/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/projects/contributions/schema-org/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>https://lukebrewerton.com/projects/creations/vulnerability-api/</loc>
     <lastmod>2018-05-16T12:41:05-05:00</lastmod>
   </url>
@@ -40,49 +30,7 @@
   </url>
   
   <url>
-    <loc>https://lukebrewerton.com/tags/atlassian-developer-ecosystem/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/atlassian-ecosystem/</loc>
-    <lastmod>2018-05-16T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/bamboo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/bash/shell/</loc>
-    <lastmod>2018-05-16T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/bitbucket/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/bosh/</loc>
-    <lastmod>2018-05-16T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lukebrewerton.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/confluence/</loc>
     <priority>0</priority>
   </url>
   
@@ -98,43 +46,14 @@
   </url>
   
   <url>
-    <loc>https://lukebrewerton.com/projects/creations/docker-marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/java/</loc>
+    <loc>https://lukebrewerton.com/tags/expressjs/</loc>
     <lastmod>2018-05-16T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lukebrewerton.com/tags/javascript/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/jira/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/json/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/maven/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/monit/</loc>
+    <loc>https://lukebrewerton.com/tags/nodejs/</loc>
     <lastmod>2018-05-16T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/node.js/</loc>
     <priority>0</priority>
   </url>
   
@@ -154,30 +73,13 @@
   </url>
   
   <url>
-    <loc>https://lukebrewerton.com/tags/python/</loc>
-    <lastmod>2018-05-16T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lukebrewerton.com/tags/rest-apis/</loc>
     <lastmod>2018-05-16T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lukebrewerton.com/tags/spring/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lukebrewerton.com/tags/</loc>
-    <lastmod>2018-05-16T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lukebrewerton.com/tags/xml/xslt/</loc>
     <lastmod>2018-05-16T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>

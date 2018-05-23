@@ -19,23 +19,5 @@
       <description>Added a Dockerfile for the application so it can run on Docker.</description>
     </item>
     
-    <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://lukebrewerton.com/projects/contributions/shields-docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
-    </item>
-    
-    <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://lukebrewerton.com/projects/contributions/schema-org/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
-    </item>
-    
   </channel>
 </rss>

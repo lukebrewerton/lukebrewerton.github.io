@@ -12,69 +12,6 @@
     
     
     <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://lukebrewerton.com/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://lukebrewerton.com/tags/atlassian-ecosystem/</link>
-      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>https://lukebrewerton.com/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash/Shell</title>
-      <link>https://lukebrewerton.com/tags/bash/shell/</link>
-      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://lukebrewerton.com/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bosh</title>
-      <link>https://lukebrewerton.com/tags/bosh/</link>
-      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://lukebrewerton.com/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Devops</title>
       <link>https://lukebrewerton.com/tags/devops/</link>
       <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
@@ -93,65 +30,20 @@
     </item>
     
     <item>
-      <title>Java</title>
-      <link>https://lukebrewerton.com/tags/java/</link>
+      <title>Expressjs</title>
+      <link>https://lukebrewerton.com/tags/expressjs/</link>
       <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://lukebrewerton.com/tags/java/</guid>
+      <guid>https://lukebrewerton.com/tags/expressjs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>https://lukebrewerton.com/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jira</title>
-      <link>https://lukebrewerton.com/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Json</title>
-      <link>https://lukebrewerton.com/tags/json/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>https://lukebrewerton.com/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monit</title>
-      <link>https://lukebrewerton.com/tags/monit/</link>
+      <title>Nodejs</title>
+      <link>https://lukebrewerton.com/tags/nodejs/</link>
       <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://lukebrewerton.com/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Node.js</title>
-      <link>https://lukebrewerton.com/tags/node.js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/node.js/</guid>
+      <guid>https://lukebrewerton.com/tags/nodejs/</guid>
       <description></description>
     </item>
     
@@ -165,38 +57,11 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://lukebrewerton.com/tags/python/</link>
-      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rest Apis</title>
       <link>https://lukebrewerton.com/tags/rest-apis/</link>
       <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
       
       <guid>https://lukebrewerton.com/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://lukebrewerton.com/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xml/Xslt</title>
-      <link>https://lukebrewerton.com/tags/xml/xslt/</link>
-      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://lukebrewerton.com/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
