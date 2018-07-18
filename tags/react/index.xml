@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nodejs on Luke Brewerton</title>
-    <link>https://lukebrewerton.com/tags/nodejs/</link>
-    <description>Recent content in Nodejs on Luke Brewerton</description>
+    <title>React on Luke Brewerton</title>
+    <link>https://lukebrewerton.com/tags/react/</link>
+    <description>Recent content in React on Luke Brewerton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lukebrewerton.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lukebrewerton.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://lukebrewerton.com/projects/creations/devconnector/</guid>
       <description>DevConnector is a social network for developers to create a profile, create posts and comment on posts. This was built using the MERN stack as part of a course on learning the MERN stack but with some features of my own.</description>
-    </item>
-    
-    <item>
-      <title>Vulnerability API</title>
-      <link>https://lukebrewerton.com/projects/creations/vulnerability-api/</link>
-      <pubDate>Wed, 16 May 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://lukebrewerton.com/projects/creations/vulnerability-api/</guid>
-      <description>Vulnerability API &amp;ldquo;is an open source tool for reviewing current CVE vulnerabilities for relevant platforms/software&amp;rdquo; The backend is written in NodeJS and Express</description>
     </item>
     
   </channel>

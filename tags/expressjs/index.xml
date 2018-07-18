@@ -6,10 +6,19 @@
     <description>Recent content in Expressjs on Luke Brewerton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 May 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lukebrewerton.com/tags/expressjs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DevConnector</title>
+      <link>https://lukebrewerton.com/projects/creations/devconnector/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lukebrewerton.com/projects/creations/devconnector/</guid>
+      <description>DevConnector is a social network for developers to create a profile, create posts and comment on posts. This was built using the MERN stack as part of a course on learning the MERN stack but with some features of my own.</description>
+    </item>
     
     <item>
       <title>Vulnerability API</title>
